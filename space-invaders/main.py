@@ -28,7 +28,7 @@ root.withdraw()
 screen = Screen()
 screen.bgcolor("black")
 screen.setup(width=800, height=600)
-screen.title("Breakout Game")
+screen.title("Space Invaders")
 screen.tracer(0)
 
 # Register the custom shapes on the correct screen
